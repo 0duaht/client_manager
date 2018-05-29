@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
-  s.add_dependency "rails", "~> 5.1"
+  s.add_dependency "rails", "~> 5.2"
   s.add_dependency "growlyflash"
   s.add_dependency "sass-rails"
   s.add_dependency "font-awesome-rails"
